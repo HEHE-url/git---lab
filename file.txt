@@ -1,3 +1,9 @@
+git add file.txt
+git commit -m "Resolved conflict"
 Hello Git
 Feature code
+<<<<<<< HEAD
 Main change
+=======
+Branch change
+>>>>>>> conflict-branch
