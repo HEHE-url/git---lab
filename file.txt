@@ -17,4 +17,9 @@ Branch edit
 >>>>>>> kdiff-demo
 Branch line
 >>>>>>> kdiff-test
+<<<<<<< HEAD
 Main edit
+=======
+Branch edit
+>>>>>>> demo-branch
+Branch edit
