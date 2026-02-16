@@ -7,3 +7,4 @@ Main change
 =======
 Branch change
 >>>>>>> conflict-branch
+Main edit 2
