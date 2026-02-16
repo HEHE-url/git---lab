@@ -7,4 +7,9 @@ Main change
 =======
 Branch change
 >>>>>>> conflict-branch
+<<<<<<< HEAD
 Main edit 2
+=======
+Branch edit
+>>>>>>> kdiff-demo
+Branch line
